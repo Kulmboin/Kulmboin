@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kulmboin
-- 👀 I’m interested in fronend
+- 👀 I’m interested in fronend and blockchain
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Kulmboin/Kulmboin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
